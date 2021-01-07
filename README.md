@@ -7,13 +7,13 @@ I am known as (OpenGamerTips, H3x0R, popcornjacob1)
 
 #### What do I know?
 I know a couple of languages and I am proficient/or advanced in all of them. Here's a list:<br>
-C#,<br>
-C,<br>
-C++,<br>
-Lua,<br>
-Luac (Used for exploits but is basically a Lua API wrapper),<br>
-Luau (Roblox Lua),<br>
-PHP,<br>
+C#,  (2 Years)<br>
+C,   (1/2 Year)<br>
+C++, (1/2 Year)<br>
+Lua, (3 Years)<br>
+Luac (2 Years),<br>
+Luau (1 Year),<br>
+PHP, (1 Year)<br>
 Batch (Windows Terminal)<br>
 I know how to write Lua bytecode by hand and create a Lua 5.1 Interpreter.
 Other than that, many things, even things unrelated to programming.
