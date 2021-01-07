@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey! You found me.
+#### Who am I?
+I am a younger developer who can program proficently in high level languages and advanced in low level languages.
+I enthusiate reverse engineering and Windows program exploitation.
+I create game hacks...lol
+I am known as (OpenGamerTips, H3x0R, popcornjacob1)
 
-<!--
-**OpenGamerTips/OpenGamerTips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### What do I know?
+I know a couple of languages and I am proficient/or advanced in all of them. Here's a list:<br>
+C#,<br>
+C,<br>
+C++,<br>
+Lua,<br>
+Luac (Used for exploits but is basically a Lua API wrapper),<br>
+Luau (Roblox Lua),<br>
+PHP,<br>
+Batch (Windows Terminal)<br>
+I know how to write Lua bytecode by hand and create a Lua 5.1 Interpreter.
+Other than that, many things, even things unrelated to programming.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How do I do in school?
+A's and B's (Rare C's). Never had an unexcused absence.
