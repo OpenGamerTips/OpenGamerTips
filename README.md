@@ -20,3 +20,7 @@ Other than that, many things, even things unrelated to programming.
 
 #### How do I do in school?
 A's and B's (Rare C's). Never had an unexcused absence.
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
