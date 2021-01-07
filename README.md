@@ -11,8 +11,8 @@ C#,  (2 Years)<br>
 C,   (1/2 Year)<br>
 C++, (1/2 Year)<br>
 Lua, (3 Years)<br>
-Luac (2 Years),<br>
-Luau (1 Year),<br>
+Luac, (2 Years)<br>
+Luau, (1 Year)<br>
 PHP, (1 Year)<br>
 Batch (Windows Terminal)<br>
 I know how to write Lua bytecode by hand and create a Lua 5.1 Interpreter.
